@@ -14,6 +14,7 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 | `ai-crash-course.md` | [AI Asal Mein Kya Hai](https://agentfactory.panaversity.org/roman/docs/what-ai-actually-is-crash-course) | 12 Q&A — Prediction, Tokens, Context Window, Agents |
 | `ai-prompting-2026.md` | [AI Prompting 2026](https://agentfactory.panaversity.org/roman/docs/ai-prompting-2026) | 14 Q&A — Prompting techniques, Multimodal, Iteration |
 | `how-to-think-ai-era.md` | [AI Ke Daur Mein Sochna](https://agentfactory.panaversity.org/roman/docs/how-to-think-ai-era) | 10 Q&A — Prediction Lock, Error Taxonomy, Systems Thinking |
+| `markdown-html-crash-course.md` | [Markdown Andar, HTML Bahar](https://agentfactory.panaversity.org/roman/docs/markdown-html-crash-course) | 12 Q&A — Markdown, HTML Output, Specs, Publishing |
 
 ---
 
@@ -47,6 +48,14 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 - **Error Taxonomy** — 6 qisam ke errors dhundna
 - **Systems Thinking** — 3 layers deep consequences
 - **Anchoring & Fluency Bias** — Cognitive biases se bachna
+
+### Markdown Andar, HTML Bahar (`markdown-html-crash-course.md`)
+- **Core Asymmetry** — Markdown for input, HTML for output
+- **5 Markdown Elements** — Headings, Lists, Code Blocks, Links, Spec Skeleton
+- **Spec Grading** — 9/10 tak improve karo pehle, phir build karo
+- **HTML Patterns** — Decision Grids, Explainers, Prototypes, Throwaway Tools
+- **3 Motions** — Chat, Terminal, Desktop
+- **Publishing Options** — Claude.ai, GitHub Gist, Pages, Netlify
 
 ---
 
