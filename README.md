@@ -16,6 +16,7 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 | `how-to-think-ai-era.md` | [AI Ke Daur Mein Sochna](https://agentfactory.panaversity.org/roman/docs/how-to-think-ai-era) | 10 Q&A — Prediction Lock, Error Taxonomy, Systems Thinking |
 | `markdown-html-crash-course.md` | [Markdown Andar, HTML Bahar](https://agentfactory.panaversity.org/roman/docs/markdown-html-crash-course) | 12 Q&A — Markdown, HTML Output, Specs, Publishing |
 | `code-you-never-write.md` | [Code Jo Aap Kabhi Nahi Likhte](https://agentfactory.panaversity.org/roman/docs/code-you-never-write-crash-course) | 14 Q&A — VPRF Test, Five-Part Brief, Verification, Safety |
+| `skills-connectors-crash-course.md` | [Skills & Connectors](https://agentfactory.panaversity.org/roman/docs/skills-connectors-crash-course) | 13 Q&A — Skills, Connectors, MCP, Safety, Portability |
 
 ---
 
@@ -65,6 +66,14 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 - **Verification Ladder** — Known answers, reality check, cross-model
 - **5 Surfaces** — Browser, Terminal, Desktop
 - **Safety Rules** — Backup, dry run, small scope, new output files
+
+### Skills & Connectors (`skills-connectors-crash-course.md`)
+- **Skill** — `SKILL.md` ek baar likho, hamesha apply hota hai
+- **Connector** — MCP standard se apps tak safe access
+- **Description Field** — Trigger decide karta hai — jitna specific utna behtar
+- **Skill + Connector** — Real data + aapka tarika = powerful workflow
+- **Safety** — Trusted sources, read-only se shuru, pehle test karo
+- **Portability** — Agent Skills standard — sab platforms par chalti hain
 
 ---
 
