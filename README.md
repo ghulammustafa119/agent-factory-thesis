@@ -15,6 +15,7 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 | `ai-prompting-2026.md` | [AI Prompting 2026](https://agentfactory.panaversity.org/roman/docs/ai-prompting-2026) | 14 Q&A — Prompting techniques, Multimodal, Iteration |
 | `how-to-think-ai-era.md` | [AI Ke Daur Mein Sochna](https://agentfactory.panaversity.org/roman/docs/how-to-think-ai-era) | 10 Q&A — Prediction Lock, Error Taxonomy, Systems Thinking |
 | `markdown-html-crash-course.md` | [Markdown Andar, HTML Bahar](https://agentfactory.panaversity.org/roman/docs/markdown-html-crash-course) | 12 Q&A — Markdown, HTML Output, Specs, Publishing |
+| `code-you-never-write.md` | [Code Jo Aap Kabhi Nahi Likhte](https://agentfactory.panaversity.org/roman/docs/code-you-never-write-crash-course) | 14 Q&A — VPRF Test, Five-Part Brief, Verification, Safety |
 
 ---
 
@@ -56,6 +57,14 @@ Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur a
 - **HTML Patterns** — Decision Grids, Explainers, Prototypes, Throwaway Tools
 - **3 Motions** — Chat, Terminal, Desktop
 - **Publishing Options** — Claude.ai, GitHub Gist, Pages, Netlify
+
+### Code Jo Aap Kabhi Nahi Likhte (`code-you-never-write.md`)
+- **VPRF Test** — Volume, Precision, Repetition, Files = Code Problem
+- **Three-Sentence Incantation** — AI ko force karo computation ke liye
+- **Five-Part Brief** — Goal, Input, Output, Rules, Edge Cases
+- **Verification Ladder** — Known answers, reality check, cross-model
+- **5 Surfaces** — Browser, Terminal, Desktop
+- **Safety Rules** — Backup, dry run, small scope, new output files
 
 ---
 
