@@ -1,53 +1,68 @@
 # Agent Factory Thesis — Q&A (Roman Urdu)
 
-Ye repository **Agent Factory Thesis** ke questions aur answers Roman Urdu mein contain karta hai.
+Ye repository **Agent Factory Thesis** aur related AI courses ke questions aur answers Roman Urdu mein contain karta hai.
 
-> Original Thesis: [agentfactory.panaversity.org](https://agentfactory.panaversity.org/roman/docs/thesis)
-
----
-
-## Thesis Kya Hai?
-
-Agent Factory Thesis propose karta hai ke AI daur ki sabse kamyab companies woh hongi jo sirf software nahi bechengay, balke **AI Employees (Digital FTEs)** banayengi aur deploy karengi. Clients in companies se software khareedne ki bajaye inki **AI workforce ko hire karengi**.
+> Source: [agentfactory.panaversity.org](https://agentfactory.panaversity.org)
 
 ---
 
 ## Is Repository Mein Kya Hai?
 
-| File | Content |
-|------|---------|
-| `thesis.md` | 30 Q&A Roman Urdu mein |
-| `README.md` | Project overview |
+| File | Source | Content |
+|------|--------|---------|
+| `thesis.md` | [Agent Factory Thesis](https://agentfactory.panaversity.org/roman/docs/thesis) | 30 Q&A — AI-Native Companies, AI Workers, Agent Factory |
+| `ai-crash-course.md` | [AI Asal Mein Kya Hai](https://agentfactory.panaversity.org/roman/docs/what-ai-actually-is-crash-course) | 12 Q&A — Prediction, Tokens, Context Window, Agents |
+| `ai-prompting-2026.md` | [AI Prompting 2026](https://agentfactory.panaversity.org/roman/docs/ai-prompting-2026) | 14 Q&A — Prompting techniques, Multimodal, Iteration |
+| `how-to-think-ai-era.md` | [AI Ke Daur Mein Sochna](https://agentfactory.panaversity.org/roman/docs/how-to-think-ai-era) | 10 Q&A — Prediction Lock, Error Taxonomy, Systems Thinking |
 
 ---
 
 ## Topics Covered
 
+### Agent Factory Thesis (`thesis.md`)
 - **Core Concepts** — AI Workers, Agent Factory, AI-Native Company, Delegate
 - **Saat Invariants** — Human Principal, Delegate, Management Layer, Engine Choice, System of Record, Expandable Under Policy, Nervous System
 - **10-80-10 Rule** — Operating model jisme 80% execution AI karta hai
 - **Two-Layer Model** — Edge Layer aur AI Workforce Layer
-- **Do Modes of Agent Use** — Problem-Solving vs Manufacturing Engagement
 - **Economic Evolution** — AI Workers autonomous economic actors bante hue
 - **Payment Protocols** — ACP, AP2, x402, MPP
-- **SaaS vs Agent Factory Era** — Business model ki shift
-- **Workforce Implications** — Naye jobs aur reskilling opportunities
-- **2026 Reference Implementation** — OpenClaw, Paperclip, Inngest
+
+### AI Crash Course (`ai-crash-course.md`)
+- **Prediction Machine** — AI text predict karta hai, retrieve nahi karta
+- **Frozen Learning** — Training ke baad model freeze ho jaata hai
+- **Tokens & Context Window** — AI ki working memory
+- **Jagged Competence** — Mushkil mein acha, asaan mein fail
+- **Tools se Agent** — Predict + Act + Observe cycle
+
+### AI Prompting 2026 (`ai-prompting-2026.md`)
+- **Novice vs Power User** — Context aur briefing ka fark
+- **Teen Retrieval Modes** — Pretrained, Web Search, Deep Research
+- **Sycophancy se Bachna** — Rubric aur structured feedback
+- **Brainstorm-Iterate Loop** — Options pehle, development baad mein
+- **Multimodal & Artifacts** — Images, audio, chhoti apps
+
+### AI Era Mein Sochna (`how-to-think-ai-era.md`)
+- **Prediction Lock** — AI se pehle khud sochna
+- **Reasoning Receipt** — AI suggestions track karna
+- **Error Taxonomy** — 6 qisam ke errors dhundna
+- **Systems Thinking** — 3 layers deep consequences
+- **Anchoring & Fluency Bias** — Cognitive biases se bachna
 
 ---
 
 ## Key Takeaway
 
-> **"AI daur mein sabse kamyab companies woh hongi jo best AI Employees deploy aur manage karengi — na ke sirf best software tools."**
+> **"AI daur mein sabse kamyab log woh honge jo AI ko sochne ka zariya banayenge — apni soch ki jagah nahi."**
 
-| SaaS Era | Agent Factory Era |
-|----------|-------------------|
-| Software Tools bechna | AI Employees deploy karna |
-| Per-Seat Subscription | Per-Outcome Results |
-| Insan operator hota tha | Insan supervisor/verifier hota hai |
+| Passive AI User | Active AI User |
+|-----------------|----------------|
+| AI ka jawab seedha leta hai | Pehle khud predict karta hai |
+| Generic output accept karta hai | Context de kar specific output leta hai |
+| Errors nahi dhundta | Error taxonomy se scan karta hai |
+| Defend nahi kar sakta | Reasoning receipt rakhta hai |
 
 ---
 
 ## Kaise Use Karein
 
-`thesis.md` file ko open karein — har topic ka sawal aur jawab Roman Urdu mein clearly explain kiya gaya hai, tables ke saath.
+Har file ek alag topic par hai — seedha file open karo aur Roman Urdu mein sawal jawab padho. Sab files mein summary tables bhi hain quick revision ke liye.
